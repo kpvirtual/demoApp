@@ -1,0 +1,29 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpvirtual/demoApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kpvirtual/demoApp/issues"
+  },
+  "homepage": "https://github.com/kpvirtual/demoApp#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "prisma": "^4.13.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.13.0"
+  },
+  "description": ""
+}
